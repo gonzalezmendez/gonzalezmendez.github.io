@@ -2,6 +2,12 @@ url: "https://gonzalezmendez.github.io"
 baseurl: ""
 
 
-theme: jekyll-theme-minimal
-title: Octocat's homepage
-description: Bookmark this to keep an eye on my project updates!
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Alfredo González | Portafolio</title>
+</head>
+<body>
+    <h1>Bienvenido a mi sitio</h1>
+</body>
+</html>
