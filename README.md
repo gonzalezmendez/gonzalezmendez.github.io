@@ -1,1 +1,9 @@
-# gonzalezmendez.github.io
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Alfredo González | Portafolio</title>
+</head>
+<body>
+    <h1>Bienvenido a mi sitio</h1>
+</body>
+</html>
