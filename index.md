@@ -38,6 +38,9 @@ layout: default
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alfredogonzalezmendez/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gonzalez.mendez@hotmail.com)
 
-<footer style="font-size: 0.8em; text-align: center; color: #777;">
+---
+
+<b><footer style="font-size: 0.8em; text-align: center; color: #777;">
   &copy; {{ "now" | date: "%Y" }} Alfredo González Méndez
 </footer>
+</b>
