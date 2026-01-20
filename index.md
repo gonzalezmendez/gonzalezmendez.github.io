@@ -13,13 +13,13 @@ layout: default
       <h3 style="margin-top: 0; color: #2c3e50;">Sobre mi...</h3>
       <p style="text-align: justify; line-height: 1.6; color: #333;">
         🏗️ Experiencia de 8 años en estructura y manipulación de datos para su estudio e interpretación.
-        <br><br>📊 Competencias avanzadas en modelado estadístico, y visualización de datos.</b>
-        <br><br>🕹️ Experiencia en desarrollo de dashboards interactivos para análisis y seguimiento de métricas clave.</b>
-        <br><br>🗣️ Habilidades de colaboración interdisciplinaria, comunicando resultados técnicos de forma clara para apoyar decisiones estratégicas.</b>
-        <br><br>🔮 Liderazgo en proyectos de análisis predictivo y experimentación (pruebas A/B, Levene, enfoques bayesianos).</b>
-        <br><br>🧠 Aplicación de machine learning y estadística inferencial para generar insights accionables.</b>
-        <br><br>🎨 Desarrollo de visualizaciones avanzadas que optimizan la interpretación y el impacto en la toma de decisiones.</b>
-</p>
+        📊 Competencias avanzadas en modelado estadístico, y visualización de datos.
+        🕹️ Experiencia en desarrollo de dashboards interactivos para análisis y seguimiento de métricas clave.
+        🗣️ Habilidades de colaboración interdisciplinaria, comunicando resultados técnicos de forma clara para apoyar decisiones estratégicas.
+        🔮 Liderazgo en proyectos de análisis predictivo y experimentación (pruebas A/B, Levene, enfoques bayesianos).
+        🧠 Aplicación de machine learning y estadística inferencial para generar insights accionables.
+        🎨 Desarrollo de visualizaciones avanzadas que optimizan la interpretación y el impacto en la toma de decisiones.
+      </p>
     </td>
   </tr>
 </table>
