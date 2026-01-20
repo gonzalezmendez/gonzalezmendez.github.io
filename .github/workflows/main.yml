@@ -13,7 +13,7 @@ jobs:
       
       - name: Fetch README
         run: |
-          curl -o README.md https://raw.githubusercontent.com/gonzalezmendez/gonzalezmendez/blob/main/README.md
+          curl -o README.md https://raw.githubusercontent.com/gonzalezmendez/gonzalezmendez/main/README.md
           
       - name: Commit and Push
         run: |
