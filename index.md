@@ -12,7 +12,7 @@ layout: default
 <td style="width: 60%; border: none; vertical-align: top;">
       <h3 style="margin-top: 0; color: #2c3e50;">Sobre mi...</h3>
       <p style="text-align: justify; line-height: 1.6; color: #333;">
-        
+
 🏗️ Experiencia de 8 años en estructura y manipulación de datos para su estudio e interpretación.
 
 📊 Competencias avanzadas en modelado estadístico, y visualización de datos.
@@ -27,10 +27,12 @@ layout: default
 
 🎨 Desarrollo de visualizaciones avanzadas que optimizan la interpretación y el impacto en la toma de decisiones.
        
+</p>
+    </td>
   </tr>
 </table>
 
-
+---
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gonzalezmendez)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alfredogonzalezmendez/)
