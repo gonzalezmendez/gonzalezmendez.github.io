@@ -7,10 +7,10 @@ layout: default
     <td style="width: 30%; border: none; vertical-align: top; padding-right: 10px;">
       <img src="https://github.com/gonzalezmendez.png" 
            alt="Descripción de la imagen" 
-           style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+           tyle="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
     </td>
 <td style="width: 70%; border: none; vertical-align: top;">
-      <h3 style="margin-top: 0; color: #2c3e50;">Sobre mi...</h3>
+      <h4 style="margin-top: 0; color: #2c3e50;">Sobre mi...</h4>
       <ul style="list-style: none; padding-left: 0; line-height: 1.8; color: #333; text-align: justify;">
         <li style="margin-bottom: 10px;">🏗️ <b>Experiencia de 8 años</b> en estructura y manipulación de datos para su estudio e interpretación.</li>
         <li style="margin-bottom: 10px;">📊 <b>Competencias avanzadas</b> en modelado estadístico y visualización de datos.</li>
