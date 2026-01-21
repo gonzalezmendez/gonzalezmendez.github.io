@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<table style="width: 125%; border-collapse: collapse; border: none; margin-bottom: 10px;">
+<table style="width: 100%; border-collapse: collapse; border: none; margin-bottom: 10px;">
   <tr style="border: none;">
     <td style="width: 30%; border: none; vertical-align: top; padding-right: 10px;">
       <img src="https://github.com/gonzalezmendez.png" 
