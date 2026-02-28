@@ -1,15 +1,55 @@
 # [Alfredo González Méndez](https://www.linkedin.com/in/alfredogonzalezmendez/)
 ##  I.S.C. _Data Scientist Certified_
 
-![Fondo](https://github.com/gonzalezmendez/gonzalezmendez/blob/images/Fondo2.png)
+<p align="center">
+  <img src="https://github.com/gonzalezmendez/gonzalezmendez/blob/images/Fondo2.png?raw=true" width="70%" alt="Fondo">
+</p>
 
 ---
 ## Proyectos
 
-| **Tienda de Videojuegos** | **Pozos Petroleros "OilyGiant"**| **Machine Learning** |
-| :---: | :---: | :---: |
-| [![tienda](https://github.com/LeTuck/LeTuck/blob/images/tienda_videojuegos.jpg)](https://github.com/LeTuck/Tienda-de-Videojuegos) | [![pozopetrolero](https://github.com/LeTuck/LeTuck/blob/images/pozopetrolero.jpg)](https://github.com/LeTuck/PozoPetrolero) | [![proceso](https://github.com/LeTuck/LeTuck/blob/images/ML.png)](https://github.com/gonzalezmendez/ML) |
-| **Proyeccion para campaña publicitaria del 2016 al 2017** | **OilyGiant quiere encontrar los mejores lugares donde abrir 200 pozos nuevos de petróleo.** | **Exploración, procesamiento y modelado de datos** |
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="20%" align="center"><b>Análisis Exploratorio y Wrangling (EDA)</b></th>
+      <th width="20%" align="center"><b>ML Supervisado</b></th>
+      <th width="20%" align="center"><b>ML No Supervisado (Clustering)</b></th>
+      <th width="20%" align="center"><b>Modelos de Árboles (Ensembles)</b></th>
+      <th width="20%" align="center"><b>Deep Learning & NLP</b></th>
+    </tr>
+  </thead>
+  
+  <tbody>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/LeTuck/Tienda-de-Videojuegos">
+          <img src="https://github.com/gonzalezmendez/gonzalezmendez/blob/images/EDA%20Y%20WRANGLING.png?raw=true" width="100%">
+        </a>
+      </td>
+  <td align="center">
+        <a href="https://github.com/LeTuck/Tienda-de-Videojuegos">
+          <img src="https://github.com/gonzalezmendez/gonzalezmendez/blob/images/ML%20SUPERVISADO.png" width="100%">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/LeTuck/Tienda-de-Videojuegos">
+          <img src="https://github.com/gonzalezmendez/gonzalezmendez/blob/images/ML%20NO%20SUPERVISADO.png" width="100%">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/LeTuck/Tienda-de-Videojuegos">
+          <img src="https://github.com/gonzalezmendez/gonzalezmendez/blob/images/ML%20ARBOLES.png" width="100%">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/gonzalezmendez/ML">
+          <img src="https://github.com/gonzalezmendez/gonzalezmendez/blob/images/ML%20DEEP%20LEARNING.png" width="100%">
+        </a>
+      </td>
+    </tr>
+  </tbody>
+  
+</table>
 
 ---
 ## Sobre mi
