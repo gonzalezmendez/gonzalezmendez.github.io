@@ -22,7 +22,7 @@
   <tbody>
     <tr>
       <td align="center">
-        <a href="https://github.com/LeTuck/Tienda-de-Videojuegos">
+        <a href="https://github.com/gonzalezmendez/An-lisis-Exploratorio-y-Wrangling-EDA-">
           <img src="https://github.com/gonzalezmendez/gonzalezmendez/blob/images/EDA%20Y%20WRANGLING.png?raw=true" width="100%">
         </a>
       </td>
