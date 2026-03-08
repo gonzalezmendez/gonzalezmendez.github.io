@@ -2,7 +2,7 @@
 ##  I.S.C. _Data Scientist Certified_
 
 <p align="center">
-  <img src="https://github.com/gonzalezmendez/gonzalezmendez/blob/images/Fondo2.png?raw=true" width="70%" alt="Fondo">
+  <img src="https://github.com/gonzalezmendez/gonzalezmendez/blob/images/banner.png?raw=true" width="100%" alt="Fondo">
 </p>
 
 ---
