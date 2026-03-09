@@ -1,100 +1,175 @@
 # [Alfredo González Méndez](https://www.linkedin.com/in/alfredogonzalezmendez/)
-##  I.S.C. _Data Scientist Certified_
+
+## 👤 Sobre mí
+
+🏗️ **+8 años de Trayectoria:** Experto en arquitectura y manipulación de datos, transformando estructuras complejas en activos estratégicos.
+
+🔮 **Ciencia de Datos Avanzada:** Especialista en experimentación estadística (Pruebas A/B, Levene, enfoques Bayesianos) y modelos de Machine Learning para la generación de insights.
+
+📊 **Visualización e Impacto:** Desarrollo de dashboards interactivos y visualizaciones de alto impacto que optimizan la toma de decisiones.
+
+📺 **Divulgación en [A:\G\M]:** Creador de contenido en @DatAGM, donde comparto tutoriales sobre EDA, despliegue de LLMs locales y Machine Learning, conectando la teoría con la implementación técnica.
+
 
 <p align="center">
-  <img src="https://github.com/gonzalezmendez/gonzalezmendez/blob/images/banner.png?raw=true" width="100%" alt="Fondo">
+  <img src="https://github.com/gonzalezmendez/gonzalezmendez/blob/images/banner.png?raw=true" width="90%" alt="Fondo">
 </p>
 
 ---
 ## Proyectos
 
 <table width="100%">
-  <thead>
-    <tr>
-      <th width="20%" align="center"><b>Análisis Exploratorio y Wrangling (EDA)</b></th>
-      <th width="20%" align="center"><b>ML Supervisado</b></th>
-      <th width="20%" align="center"><b>ML No Supervisado (Clustering)</b></th>
-      <th width="20%" align="center"><b>Modelos de Árboles (Ensembles)</b></th>
-      <th width="20%" align="center"><b>Deep Learning & NLP</b></th>
-    </tr>
-  </thead>
-  
-  <tbody>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/gonzalezmendez/An-lisis-Exploratorio-y-Wrangling-EDA-">
-          <img src="https://github.com/gonzalezmendez/gonzalezmendez/blob/images/EDA%20Y%20WRANGLING.png?raw=true" width="100%">
-        </a>
-      </td>
-  <td align="center">
-        <a href="https://github.com/LeTuck/Tienda-de-Videojuegos">
-          <img src="https://github.com/gonzalezmendez/gonzalezmendez/blob/images/ML%20SUPERVISADO.png" width="100%">
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/LeTuck/Tienda-de-Videojuegos">
-          <img src="https://github.com/gonzalezmendez/gonzalezmendez/blob/images/ML%20NO%20SUPERVISADO.png" width="100%">
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/LeTuck/Tienda-de-Videojuegos">
-          <img src="https://github.com/gonzalezmendez/gonzalezmendez/blob/images/ML%20ARBOLES.png" width="100%">
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/gonzalezmendez/ML">
-          <img src="https://github.com/gonzalezmendez/gonzalezmendez/blob/images/ML%20DEEP%20LEARNING.png" width="100%">
-        </a>
-      </td>
-    </tr>
-  </tbody>
-  
+<thead>
+<tr>
+<th align="center" width="33%">Data Preparation</th>
+<th align="center" width="33%">Machine Learning</th>
+<th align="center" width="33%">Deep Learning</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+
+<td align="center">
+
+<a href="https://github.com/gonzalezmendez/An-lisis-Exploratorio-y-Wrangling-EDA-">
+<img src="https://raw.githubusercontent.com/gonzalezmendez/gonzalezmendez/images/001.png" width="100%">
+</a>
+
+<b>EDA & Data Wrangling</b>
+
+Análisis exploratorio, limpieza de características, transformación y preparación de datos.<br><br>
+Exploratory analysis, feature cleaning, transformation and data preparation.
+
+</td>
+
+<td align="center">
+
+<a href="#">
+<img src="https://raw.githubusercontent.com/gonzalezmendez/gonzalezmendez/images/002.png" width="100%">
+</a>
+
+<b>Machine Learning</b>
+
+Modelos supervisados, métricas de evaluación, canalizaciones e ingeniería de características.<br><br>
+Supervised models, evaluation metrics, pipelines and feature engineering.
+
+</td>
+
+<td align="center">
+
+<a href="#">
+<img src="https://raw.githubusercontent.com/gonzalezmendez/gonzalezmendez/images/003.png" width="100%">
+</a>
+
+<b>Deep Learning & NLP</b>
+
+Redes neuronales, embeddings, transformadores y modelos de lenguaje.<br><br>
+Neural networks, embeddings, transformers and language models.<br><br>
+
+</td>
+
+</tr>
+</tbody>
 </table>
 
 ---
-## Sobre mi
-  
-  🏗️ _Experiencia de 8 años en estructura y manipulación de datos para su estudio e interpretación._
-  
-  📊 _Competencias avanzadas en modelado estadístico, y visualización de datos._
-  
-  🕹️ _Experiencia en desarrollo de dashboards interactivos para análisis y seguimiento de métricas clave._
-  
-  🗣️ _Habilidades de colaboración interdisciplinaria, comunicando resultados técnicos de forma clara para apoyar decisiones estratégicas._
-  
-  🔮 _Liderazgo en proyectos de análisis predictivo y experimentación (pruebas A/B, Levene, enfoques bayesianos)._
-  
-  🧠 _Aplicación de machine learning y estadística inferencial para generar insights accionables._
-  
-  🎨 _Desarrollo de visualizaciones avanzadas que optimizan la interpretación y el impacto en la toma de decisiones._
-  
+## 🎓 Certificaciones & Especializaciones
+
+<table>
+  <tbody>
+    <tr>
+      <td align="center" width="220">
+        <a href="https://drive.google.com/file/d/1qnWgWXkZa_C5S0NsrsGGd10Y5HFd6zTd/view?usp=sharing">
+          <img src="https://raw.githubusercontent.com/gonzalezmendez/gonzalezmendez/images/Data%20Scientist.png" alt="Data Scientist" width="200">
+        </a>
+      </td>
+      <td>
+        <strong>Data Scientist | TripleTen</strong><br>
+        <strong>Duración:</strong> 610 horas (Programa de especialización profunda).<br>
+        <strong>Enfoque:</strong> Dominio del ciclo de vida completo de la ciencia de datos. Incluye análisis exploratorio de datos (EDA), pruebas de hipótesis, Machine Learning supervisado y no supervisado, y despliegue de modelos.<br>
+        <strong>Stack:</strong> Python (Pandas, Scikit-Learn), SQL, Estadística Matemática y visualización avanzada.
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://drive.google.com/file/d/1But81EE6RE_y9uesFhXl_D_B139f5USV/view?usp=sharing">
+          <img src="https://raw.githubusercontent.com/gonzalezmendez/gonzalezmendez/images/Python%20Profesional.png" alt="Python Profesional" width="200">
+        </a>
+      </td>
+      <td>
+        <strong>Python Profesional | CódigoFacilito</strong><br>
+        <strong>Duración:</strong> 8h 39m.<br>
+        <strong>Enfoque:</strong> Profundización en las mejores prácticas del lenguaje, manejo de estructuras de datos complejas, decoradores, generadores y programación orientada a objetos (POO) avanzada para scripts de alta eficiencia.
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://drive.google.com/file/d/1EyEAKv_jw7anf1gX7j5op7_J8sdf_QJc/view?usp=sharing">
+          <img src="https://github.com/gonzalezmendez/gonzalezmendez/blob/images/Ingenier%C3%ADa%20de%20prompts.png?raw=true" alt="Prompts" width="200">
+        </a>
+      </td>
+      <td>
+        <strong>Ingeniería de Prompts | CódigoFacilito</strong><br>
+        <strong>Duración:</strong> 4h 57m.<br>
+        <strong>Enfoque:</strong> Diseño y optimización de instrucciones para LLMs (Large Language Models). Técnicas de few-shot prompting, chain-of-thought y control de temperatura/top-p para maximizar la precisión en la generación de texto y código.
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://drive.google.com/file/d/1OiLRpCttrbSaSFMXcjRHbwgqEYvG2wsg/view?usp=sharing">
+          <img src="https://github.com/gonzalezmendez/gonzalezmendez/blob/images/Introducci%C3%B3n%20a%20Machine%20Learning.png?raw=true" alt="ML" width="200">
+        </a>
+      </td>
+      <td>
+        <strong>Introducción a Machine Learning | CódigoFacilito</strong><br>
+        <strong>Duración:</strong> 4h 9m.<br>
+        <strong>Enfoque:</strong> Fundamentos de algoritmos predictivos, incluyendo regresiones lineales, árboles de decisión y evaluación de métricas (Precision, Recall, F1-Score) para modelos de clasificación.
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://drive.google.com/file/d/1SVV75ytNYwvDl0647Yx8jW6m6kT_CVsX/view?usp=sharing">
+          <img src="https://github.com/gonzalezmendez/gonzalezmendez/blob/images/Profesional%20de%20Git.png?raw=true" alt="Git" width="200">
+        </a>
+      </td>
+      <td>
+        <strong>Git Profesional | CódigoFacilito</strong><br>
+        <strong>Duración:</strong> 3h 14m.<br>
+        <strong>Enfoque:</strong> Gestión avanzada de versiones, flujos de trabajo colaborativos (GitFlow), resolución de conflictos, manejo de stashing, rebasing y optimización del historial de commits.
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://drive.google.com/file/d/1WXASZHlgm-NJ0tWHclM3nt41v524r-F6/view?usp=sharing">
+          <img src="https://raw.githubusercontent.com/gonzalezmendez/gonzalezmendez/images/Apps%20de%20Inteligencia%20Artificial%20con%20C%23%20y%20Azure.png" alt="Apps de IA" width="200">
+        </a>
+      </td>
+      <td>
+        <strong>Desarrollo de Apps de IA con C# y Azure | CódigoFacilito</strong><br>
+        <strong>Duración:</strong> 2h 54m.<br>
+        <strong>Enfoque:</strong> Integración de servicios cognitivos de Azure en ecosistemas .NET. Implementación de soluciones de inteligencia artificial utilizando C# para conectar aplicaciones con modelos de visión y lenguaje en la nube.
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 ---
-## Cursos
+## 🧠 Competencias & Core Skills
 
-| **DATA SCIENTIST** | **PHYTON PROFESIONAL**| **APPS DE INTELIGENCIA ARTIFICIAL CON C# Y AZURE** |
-| :---: | :---: | :---: |
-| [![Data Scientist](https://lh3.googleusercontent.com/u/0/d/1DJ34KXruXAx5aahUMDAhpgo4CPWAQfNV)](https://drive.google.com/file/d/1qnWgWXkZa_C5S0NsrsGGd10Y5HFd6zTd/view?usp=sharing) | [![Python Profesional](https://lh3.googleusercontent.com/u/0/d/1f9lUjoURzAn8CbkFKNYoFn2ViKwVQ6yB)](https://drive.google.com/file/d/1But81EE6RE_y9uesFhXl_D_B139f5USV/view?usp=sharing) | [![Apps de Inteligencia Artificial con C# y Azure](https://lh3.googleusercontent.com/u/0/d/1TLVSbbTCiHPV7GP0KWDQNz3VlN7t-21_)](https://drive.google.com/file/d/1WXASZHlgm-NJ0tWHclM3nt41v524r-F6/view?usp=sharing) |
-| **TripleTen - 610h** | **códigofacilito - 8h 39m** | **códigofacilito - 2h 54m** |
-|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**INTRODUCCION A MACHINE LEARNING** |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**INGENIERIA DE PROMPTS**|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**PROFESIONAL DE GIT**|
-| [![Introducción a Machine Learning ](https://lh3.googleusercontent.com/u/0/d/18c4zR_fWUCbHJYaQXoZOsl2a7k0oCC1P)](https://drive.google.com/file/d/1OiLRpCttrbSaSFMXcjRHbwgqEYvG2wsg/view?usp=sharing) | [![PIngeniería de prompts](https://lh3.googleusercontent.com/u/0/d/1-PuDSQoYkUgbessL_CmiiDAKdr9Ynb-1)](https://drive.google.com/file/d/1EyEAKv_jw7anf1gX7j5op7_J8sdf_QJc/view?usp=sharing) | [![Profesional de Git](https://lh3.googleusercontent.com/u/0/d/1K1ZuAbgNdKEWR6EcsNFK0TR8xZUPrKWz)](https://drive.google.com/file/d/1SVV75ytNYwvDl0647Yx8jW6m6kT_CVsX/view?usp=sharing) |
-| **códigofacilito - 4h 9m** | **códigofacilito - 4h 57m** | **códigofacilito - 3h 14m** |
+**Pensamiento Analítico:** Capacidad para transformar datos crudos en insights accionables y decisiones estratégicas.
+**Comunicación Técnica:** Experiencia traduciendo métricas complejas a lenguaje claro para equipos interdisciplinarios.
+**Resolución de Problemas:** Abordaje lógico y estructurado para la depuración de código y optimización de modelos de ML.
+**Atención al Detalle:** Rigor en la limpieza de datos (EDA) y en el control de versiones con Git.
+**Colaboración Digital:** Flujo de trabajo eficiente en entornos remotos utilizando herramientas de automatización y CI/CD.
 
 ---
-## Competencias
+## 🌐 Connect with System
 
-🧐 _Razonamiento crítico y analítico._
+| Channel | Endpoint |
+| :--- | :--- |
+| **LinkedIn** | [![LinkedIn](https://img.shields.io/badge/-Alfredo_Gonzalez_Mendez-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alfredogonzalezmendez/) |
+| **Email** | [![Email](https://img.shields.io/badge/-alfredo.gm.data@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:alfredo.gm.data@gmail.com) |
+| **YouTube** | [![YouTube](https://img.shields.io/badge/-@DatAGM-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@DatAGM) |
 
-💬 _Comunicación efectiva con equipos interdisciplinarios._
-
-🎯 _Toma de decisiones basada en análisis de datos._
-
-📌 _Organización y atención al detalle._
-
-🧩 _Resolución de problemas complejos._
-
-🌐 _Trabajo colaborativo en entornos digitales._
-
----
-## Contacto:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alfredogonzalezmendez/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alfredo.gm.data@gmail.com)
+` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` `
