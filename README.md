@@ -1,4 +1,6 @@
-# [Alfredo González Méndez](https://www.linkedin.com/in/alfredogonzalezmendez/)
+<p align="center">
+  <img src="https://github.com/gonzalezmendez/gonzalezmendez/blob/images/banner.png?raw=true" width="90%" alt="Fondo">
+</p>
 
 ## 👤 Sobre mí
 
@@ -11,12 +13,7 @@
 📺 **Divulgación en [A:\G\M]:** Creador de contenido en @DatAGM, donde comparto tutoriales sobre EDA, despliegue de LLMs locales y Machine Learning, conectando la teoría con la implementación técnica.
 
 
-<p align="center">
-  <img src="https://github.com/gonzalezmendez/gonzalezmendez/blob/images/banner.png?raw=true" width="90%" alt="Fondo">
-</p>
-
----
-## Proyectos
+## 🚀 Featured Projects
 
 <table width="100%">
 <thead>
@@ -73,7 +70,19 @@ Neural networks, embeddings, transformers and language models.<br><br>
 </tbody>
 </table>
 
----
+## 🧠 Competencias & Core Skills
+
+**Pensamiento Analítico:** Capacidad para transformar datos crudos en insights accionables y decisiones estratégicas.
+
+**Comunicación Técnica:** Experiencia traduciendo métricas complejas a lenguaje claro para equipos interdisciplinarios.
+
+**Resolución de Problemas:** Abordaje lógico y estructurado para la depuración de código y optimización de modelos de ML.
+
+**Atención al Detalle:** Rigor en la limpieza de datos (EDA) y en el control de versiones con Git.
+
+**Colaboración Digital:** Flujo de trabajo eficiente en entornos remotos utilizando herramientas de automatización y CI/CD.
+
+
 ## 🎓 Certificaciones & Especializaciones
 
 <table>
@@ -154,16 +163,6 @@ Neural networks, embeddings, transformers and language models.<br><br>
   </tbody>
 </table>
 
----
-## 🧠 Competencias & Core Skills
-
-**Pensamiento Analítico:** Capacidad para transformar datos crudos en insights accionables y decisiones estratégicas.
-**Comunicación Técnica:** Experiencia traduciendo métricas complejas a lenguaje claro para equipos interdisciplinarios.
-**Resolución de Problemas:** Abordaje lógico y estructurado para la depuración de código y optimización de modelos de ML.
-**Atención al Detalle:** Rigor en la limpieza de datos (EDA) y en el control de versiones con Git.
-**Colaboración Digital:** Flujo de trabajo eficiente en entornos remotos utilizando herramientas de automatización y CI/CD.
-
----
 ## 🌐 Connect with System
 
 | Channel | Endpoint |
@@ -171,5 +170,3 @@ Neural networks, embeddings, transformers and language models.<br><br>
 | **LinkedIn** | [![LinkedIn](https://img.shields.io/badge/-Alfredo_Gonzalez_Mendez-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alfredogonzalezmendez/) |
 | **Email** | [![Email](https://img.shields.io/badge/-alfredo.gm.data@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:alfredo.gm.data@gmail.com) |
 | **YouTube** | [![YouTube](https://img.shields.io/badge/-@DatAGM-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@DatAGM) |
-
-` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` `
