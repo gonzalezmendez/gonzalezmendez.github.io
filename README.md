@@ -42,7 +42,7 @@ Exploratory analysis, feature cleaning, transformation and data preparation.
 
 <td align="center">
 
-<a href="#">
+<a href="https://github.com/gonzalezmendez/Machine-Learning">
 <img src="https://raw.githubusercontent.com/gonzalezmendez/gonzalezmendez/images/002.png" width="100%">
 </a>
 
@@ -55,7 +55,7 @@ Supervised models, evaluation metrics, pipelines and feature engineering.
 
 <td align="center">
 
-<a href="#">
+<a href="https://github.com/gonzalezmendez/Deep-Learning-NLP">
 <img src="https://raw.githubusercontent.com/gonzalezmendez/gonzalezmendez/images/003.png" width="100%">
 </a>
 
