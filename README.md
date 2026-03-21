@@ -16,19 +16,21 @@
 ## 🚀 Featured Projects
 
 <table width="100%">
+  
 <thead>
 <tr>
-<th align="center" width="33%">Data Preparation</th>
-<th align="center" width="33%">Machine Learning</th>
-<th align="center" width="33%">Deep Learning</th>
+<th align="center" width="25%">Data Preparation</th>
+<th align="center" width="25%">Machine Learning</th>
+<th align="center" width="25%">Deep Learning</th>
+  <th align="center" width="25%">Business Intelligence</th>
 </tr>
 </thead>
 
 <tbody>
+  
 <tr>
-
+  
 <td align="center">
-
 <a href="https://github.com/gonzalezmendez/An-lisis-Exploratorio-y-Wrangling-EDA-">
 <img src="https://raw.githubusercontent.com/gonzalezmendez/gonzalezmendez/images/001.png" width="100%">
 </a>
@@ -62,11 +64,25 @@ Supervised models, evaluation metrics, pipelines and feature engineering.
 <b>Deep Learning & NLP</b>
 
 Redes neuronales, embeddings, transformadores y modelos de lenguaje.<br><br>
-Neural networks, embeddings, transformers and language models.<br><br>
+Neural networks, embeddings, transformers and language models.
+
+</td>
+
+<td align="center">
+
+<a href="https://github.com/gonzalezmendez/Business-Intelligence">
+<img src="https://raw.githubusercontent.com/gonzalezmendez/gonzalezmendez/images/004.png" width="100%">
+</a>
+
+<b>Business Intelligence</b>
+
+Dashboard interactivo con métricas clave, storytelling de datos y optimización de procesos.<br><br>
+Interactive dashboard with key metrics, data storytelling, and process optimization.
 
 </td>
 
 </tr>
+
 </tbody>
 </table>
 
@@ -173,7 +189,7 @@ Neural networks, embeddings, transformers and language models.<br><br>
         <strong>Duración:</strong> 2h 54m.<br>
         <strong>Enfoque:</strong> Integración de servicios cognitivos de Azure en ecosistemas .NET. Implementación de soluciones de inteligencia artificial utilizando C# para conectar aplicaciones con modelos de visión y lenguaje en la nube.
       </td>
-    </tr>
+    </tr>    
   </tbody>
 </table>
 
