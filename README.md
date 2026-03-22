@@ -1,6 +1,56 @@
-<p align="center">
-  <img src="https://github.com/gonzalezmendez/gonzalezmendez/blob/images/banner.png?raw=true" width="90%" alt="Fondo">
-</p>
+<table style="width: 100%; border-collapse: collapse;">
+ 
+ <tr>
+  <td align="center" valign="middle" width="80%" style="padding: 10px; border: 1px solid #ccc;">
+    <a href="#" target="_blank">
+      <img src="https://github.com/gonzalezmendez/gonzalezmendez/blob/images/banner.png?raw=true" width="100%" alt="Fondo"
+           alt="Fondo" 
+           style="max-width: 100%; height: auto; display: block;">
+    </a>
+  </td>
+<td align="left" valign="top" width="20%" style="padding: 20px; border: 1px solid #ccc;">
+
+<h3>🌐 Connect with System</h3>
+<table>
+  <tr>
+    <td><strong>LinkedIn</strong></td>
+    <td>
+      <a href="https://www.linkedin.com/in/alfredogonzalezmendez/">
+        <img src="https://img.shields.io/badge/-Alfredo_Gonzalez_Mendez-0077B5?style=flat-square&logo=linkedin&logoColor=white">
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>Email</strong></td>
+    <td>
+      <a href="mailto:alfredo.gm.data@gmail.com">
+        <img src="https://img.shields.io/badge/-alfredo.gm.data@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white">
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>YouTube</strong></td>
+    <td>
+      <a href="https://youtube.com/@DatAGM">
+        <img src="https://img.shields.io/badge/-@DatAGM-FF0000?style=flat-square&logo=youtube&logoColor=white">
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>Página</strong></td>
+    <td>
+      <a href="https://gonzalezmendez.github.io">
+        <img src="https://img.shields.io/badge/-gonzalezmendez.github.io-4285F4?style=flat-square&logo=google-chrome&logoColor=white">
+      </a>
+    </td>
+  </tr>
+</table>
+</td>
+</tr>
+</table>
 
 ## 👤 Sobre mí
 
@@ -111,9 +161,37 @@ Interactive dashboard with key metrics, data storytelling, and process optimizat
       </td>
       <td>
         <strong>Data Scientist | TripleTen</strong><br>
-        <strong>Duración:</strong> 610 horas (Programa de especialización profunda).<br>
+        <strong>Duración:</strong> 610 horas.<br>
         <strong>Enfoque:</strong> Dominio del ciclo de vida completo de la ciencia de datos. Incluye análisis exploratorio de datos (EDA), pruebas de hipótesis, Machine Learning supervisado y no supervisado, y despliegue de modelos.<br>
         <strong>Stack:</strong> Python (Pandas, Scikit-Learn), SQL, Estadística Matemática y visualización avanzada.
+      </td>
+    </tr>
+        <tr>
+      <td align="center" width="220">
+        <a href="https://drive.google.com/file/d/1LL0W5ZIy4p7Yur4_Wy5NokQpptlNg8Cr/view?usp=sharing">
+          <img src="https://github.com/gonzalezmendez/gonzalezmendez/blob/images/powerbi.png?raw=true" alt="power bi" width="200">
+        </a>
+      </td>
+      <td>
+        <strong>Power BI + IA – Curso Intensivo| DAXUS </strong><br>
+        <strong>Duración:</strong> 8 horas (Jornadas formativas).<br>
+        <strong>Enfoque:</strong> Aplicación práctica de Business Intelligence con Power BI, flujo completo de análisis de datos, desde la preparación hasta la generación de insights accionables mediante dashboards interactivos.<br>
+        <strong>Stack:</strong> Power BI Desktop - Power Query - DAX (Data Analysis Expressions)<br>
+        <strong>Herramientas:</strong> ETL con Power Query - Modelado de datos - Creación de medidas y columnas calculadas en DAX - Visualizaciones interactivas - Segmentación de datos - Publicación y compartición de reportes<br>
+        <strong>Habilidades:</strong> Data Wrangling - Pensamiento analítico - Modelado de datos - DAX - Storytelling - Identificación de insights</td>
+    </tr>
+        <tr>
+      <td align="center" width="220">
+        <a href="https://drive.google.com/file/d/1TUB9BBYVgoqj-sI2X7i4rgYsftnXUNXY/view?usp=sharing">
+          <img src="https://github.com/gonzalezmendez/gonzalezmendez/blob/images/DESARROLLOIA.png?raw=true" alt="desarrollo_ia" width="200">
+        </a>
+      </td>
+      <td>
+        <strong>Iniciación al Desarrollo con IA: de 0 a Producción | BIG School </strong><br>
+        <strong>Duración:</strong> 6 horas (Jornadas formativas).<br>
+        <strong>Enfoque:</strong> Implementación de flujos de trabajo de IA para el desarrollo full-stack, centrado en "Vibe Coding" y despliegue rápido de MVPs.<br>
+        <strong>Herramientas:</strong> Base44, Claude 3.5, Bolt.new, Make, React, Vercel.<br>
+        <strong>Habilidades:</strong> Automatización de procesos, auditoría de seguridad en IA y arquitectura de software asistida.
       </td>
     </tr>
     <tr>
@@ -138,20 +216,6 @@ Interactive dashboard with key metrics, data storytelling, and process optimizat
         <strong>Ingeniería de Prompts | CódigoFacilito</strong><br>
         <strong>Duración:</strong> 4h 57m.<br>
         <strong>Enfoque:</strong> Diseño y optimización de instrucciones para LLMs (Large Language Models). Técnicas de few-shot prompting, chain-of-thought y control de temperatura/top-p para maximizar la precisión en la generación de texto y código.
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="220">
-        <a href="https://drive.google.com/file/d/1TUB9BBYVgoqj-sI2X7i4rgYsftnXUNXY/view?usp=sharing">
-          <img src="https://github.com/gonzalezmendez/gonzalezmendez/blob/images/DESARROLLOIA.png?raw=true" alt="desarrollo_ia" width="200">
-        </a>
-      </td>
-      <td>
-        <strong>Iniciación al Desarrollo con IA: de 0 a Producción | BIG School </strong><br>
-        <strong>Duración:</strong> 6 horas (Jornadas formativas).<br>
-        <strong>Enfoque:</strong> Implementación de flujos de trabajo de IA para el desarrollo full-stack, centrado en "Vibe Coding" y despliegue rápido de MVPs.<br>
-        <strong>Herramientas:</strong> Base44, Claude 3.5, Bolt.new, Make, React, Vercel.<br>
-        <strong>Habilidades:</strong> Automatización de procesos, auditoría de seguridad en IA y arquitectura de software asistida.
       </td>
     </tr>
     <tr>
@@ -192,11 +256,3 @@ Interactive dashboard with key metrics, data storytelling, and process optimizat
     </tr>    
   </tbody>
 </table>
-
-## 🌐 Connect with System
-
-| Channel | Endpoint |
-| :--- | :--- |
-| **LinkedIn** | [![LinkedIn](https://img.shields.io/badge/-Alfredo_Gonzalez_Mendez-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alfredogonzalezmendez/) |
-| **Email** | [![Email](https://img.shields.io/badge/-alfredo.gm.data@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:alfredo.gm.data@gmail.com) |
-| **YouTube** | [![YouTube](https://img.shields.io/badge/-@DatAGM-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@DatAGM) |
