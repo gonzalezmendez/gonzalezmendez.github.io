@@ -42,8 +42,8 @@
   <tr>
     <td><strong>Página</strong></td>
     <td>
-      <a href="https://gonzalezmendez.github.io">
-        <img src="https://img.shields.io/badge/-gonzalezmendez.github.io-4285F4?style=flat-square&logo=google-chrome&logoColor=white">
+      <a href="https://gonzalezmendez.lovable.app/">
+        <img src="https://img.shields.io/badge/-gonzalezmendez.lovable.app-4285F4?style=flat-square&logo=google-chrome&logoColor=white">
       </a>
     </td>
   </tr>
@@ -60,7 +60,7 @@
 
 📊 **Visualización e Impacto:** Desarrollo de dashboards interactivos y visualizaciones de alto impacto que optimizan la toma de decisiones.
 
-📺 **Divulgación en [A:\G\M]:** Creador de contenido en @DatAGM, donde comparto tutoriales sobre EDA, despliegue de LLMs locales y Machine Learning, conectando la teoría con la implementación técnica.
+📺 **Portafolio en video [A:\G\M]:** Explico y documento proyectos reales de Data Science (EDA, ML, LLMs), conectando teoría, código y resultados aplicados.
 
 
 ## 🚀 Featured Projects
