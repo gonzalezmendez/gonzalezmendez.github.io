@@ -182,6 +182,19 @@ Interactive dashboard with key metrics, data storytelling, and process optimizat
     </tr>
         <tr>
       <td align="center" width="220">
+        <a href="https://drive.google.com/file/d/1Bnn4VmQBd1HAAGGjgjPCV141f1rWpzU_/view?usp=sharing">
+          <img src="https://github.com/gonzalezmendez/gonzalezmendez/blob/images/Ciberseguridad.png?raw=true" alt="Ciberseguridad" width="200">
+        </a>
+      </td>
+      <td>
+        <strong>Ciberseguridad & Hacking Etico | BIG School </strong><br>
+        <strong>Duración:</strong> 6 horas (Jornadas formativas).<br>
+        <strong>Enfoque:</strong> Formación práctica en ciberseguridad ofensiva orientada al pentesting. Incluye reconocimiento (OSINT), escaneo y enumeración de vulnerabilidades, explotación controlada, post-explotación y reporte bajo estándares como OWASP Top 10.<br>
+        <strong>Stack:</strong> Kali Linux, Nmap, Metasploit, Burp Suite, SQLmap, Wireshark, OWASP ZAP, Bash, Python, Hashcat, Hydra, Netcat.<br>
+      </td>
+    </tr>    
+        <tr>
+      <td align="center" width="220">
         <a href="https://drive.google.com/file/d/1TUB9BBYVgoqj-sI2X7i4rgYsftnXUNXY/view?usp=sharing">
           <img src="https://github.com/gonzalezmendez/gonzalezmendez/blob/images/DESARROLLOIA.png?raw=true" alt="desarrollo_ia" width="200">
         </a>
@@ -193,7 +206,7 @@ Interactive dashboard with key metrics, data storytelling, and process optimizat
         <strong>Herramientas:</strong> Base44, Claude 3.5, Bolt.new, Make, React, Vercel.<br>
         <strong>Habilidades:</strong> Automatización de procesos, auditoría de seguridad en IA y arquitectura de software asistida.
       </td>
-    </tr>
+    </tr>    
     <tr>
       <td align="center">
         <a href="https://drive.google.com/file/d/1But81EE6RE_y9uesFhXl_D_B139f5USV/view?usp=sharing">
